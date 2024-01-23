@@ -11,4 +11,4 @@ Last-Updated: 1/23/24
 - Raspberry Pi 4-B: x1
 - Infrared Tracking Sensors: x2
 - Various pin wiring...
-- 10000 mAh battery
+- 10000 mAh Battery
