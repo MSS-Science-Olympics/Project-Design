@@ -1,2 +1,1 @@
-# Design
-CAD/Schematics/Technical Drawings/Icons etc.
+# Project Design
